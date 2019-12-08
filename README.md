@@ -1,2 +1,1 @@
-# Game
-Nodejs,MongoDB,WebStock,Express,Cocos
+#麻将服务器端原始版本
