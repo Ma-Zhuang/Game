@@ -24,7 +24,7 @@
     "ioredis": "^3.1.4",
     "memwatch-next": "^0.3.0",
     "mmap-kit": "^1.0.0",
-    "mongoose": "^4.11.11",
+    "mongoose": "^4.13.21",
     "msgpack-lite": "^0.1.26",
     "node-cmd": "^3.0.0",
     "node-schedule": "^1.2.0",
