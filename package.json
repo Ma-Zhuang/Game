@@ -10,7 +10,7 @@
     "web": "node web/bin/www"
   },
   "dependencies": {
-    "body-parser": "^1.17.1",
+    "body-parser": "^1.20.1",
     "bson": "^0.5.6",
     "bufferutil": "^3.0.0",
     "bunyan": "^1.8.5",
@@ -18,7 +18,7 @@
     "consistent-hash": "^1.0.2",
     "debug": "^2.6.0",
     "dotenv": "^2.0.0",
-    "express": "^4.15.4",
+    "express": "^4.18.2",
     "heapdump": "^0.3.7",
     "in-app-purchase": "^1.1.10",
     "ioredis": "^3.1.4",
