@@ -18,7 +18,7 @@
     "consistent-hash": "^1.0.2",
     "debug": "^2.6.0",
     "dotenv": "^2.0.0",
-    "express": "^4.15.4",
+    "express": "^4.17.3",
     "heapdump": "^0.3.7",
     "in-app-purchase": "^1.1.10",
     "ioredis": "^3.1.4",
